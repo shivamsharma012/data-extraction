@@ -33,7 +33,7 @@ def input(c):
     return(l1) 
    
    
-   #extract all file names
+# extract all file names
 import glob
 files = glob.glob('data/*/*.*')
 
